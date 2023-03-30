@@ -6,13 +6,11 @@ This project was bootstrapped with [Create React App]
 
 ![Screenshot (224)](https://user-images.githubusercontent.com/121561288/228832471-7644257c-a9b9-41f8-a34a-1b8925558f19.png)
 
-![Screenshot (225)](https://user-images.githubusercontent.com/121561288/228832598-7
+![Screenshot (225)](https://user-images.githubusercontent.com/121561288/228834404-db52bfe5-cc77-47cb-920f-817cb1aba394.png)
 
-https://user-images.githubusercontent.com/121561288/228833726-72dd9982-5812-4caa-af85-adf14ca7c144.mp4
-
-52afa3b-7d9e-4bb6-be2d-6c31abf25f26.png)
 
 ![Screenshot (226)](https://user-images.githubusercontent.com/121561288/228832647-6f71c60a-f9a4-4ddc-ab3f-64dabe8e26b3.png)
+
 
 https://user-images.githubusercontent.com/121561288/228833726-72dd9982-5812-4caa-af85-adf14ca7c144.mp4
 
